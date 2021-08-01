@@ -31,5 +31,7 @@ Você pode visualizar o layout do projeto através desse link. https://workshopr
 👩🏻‍💻 Desenvolvido 
 Desenvolvido por Christiane Gozza
 ----------------------------------------------------------------------------------------------------------------------------
-Feito com ♥ [christianeGozza] (https://github.com/chritianegozza)👋 Siga meus projetos e deixe uma  ⭐!
+
+
+Feito com ♥[christianeGozza] (https://github.com/chritianegozza)👋 Siga meus projetos e deixe uma  ⭐!
 
