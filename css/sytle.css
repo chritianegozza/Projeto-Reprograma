@@ -1,0 +1,182 @@
+body {
+    font-size: 12px;
+    background-color: azure;
+}
+
+.caixa-banner {
+    background-image: url(../img/banner-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 85vh;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.titulo-sobre{
+    margin: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.titulo1 {
+    font-size: 2rem;
+    text-shadow: 2px 2px rgb(74, 16, 233);
+
+}
+
+.subtitulo1 {
+    font-size: 28px;
+    text-shadow: 2px 2px  rgb(23, 120, 231);
+}
+
+.link-sobre {
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #20065f;
+    font-weight: bold;
+    background-color: white;
+    padding: 8px 20px;
+    border-radius: 20px;
+}
+
+.link-cv {
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: white;
+    background-color: rgb(26, 63, 105);
+    padding: 8px 20px;
+    border-radius: 20px;
+    transition: 1s all;
+    border: none;
+	cursor: pointer;
+    opacity: 2;
+	
+}
+
+.link-cv:hover {
+        background: red;
+        transform: scale(1.2);
+}
+
+.caixa-sobre {
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+}
+
+.nome {
+    font-weight: bold;
+    color: rgb(52, 101, 235);
+}
+
+.lado1 {
+    width: 40%;
+    justify-content: space-between;
+    
+}
+
+.margin-texto {
+    margin-bottom: 40px;
+}
+
+.lado2 {
+    width: 20%;
+    font-size: 14px;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 1.5;
+}
+
+h3 {
+    font-size: 25px;
+   
+}
+
+ul {
+    line-height: 1.8;
+    
+}
+
+.titulo-sobre {
+    margin-left: 100px;
+    font-size: 35px;
+    color: rgb(23, 120, 231);
+
+}
+
+.caixa-links {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    opacity: 20;
+    transition: 1s all;
+    border: 2px solid transparent;
+
+}
+
+.links {
+    background-color: #20065f;
+    width: 170px;
+    height: 170px;
+    text-align: center;
+    text-decoration: none;
+    color:white;  
+    border: #000 solid 1px;  
+}
+.icone{
+    width: 50px;
+    height: 50px;
+    margin-top: 30px;
+}
+
+.rodape,copyright {
+    background-color: #20065f;
+	color: #fff;
+	font-size: 20px;
+    text-align: center;
+    bottom: 0px;
+    width: 100%;
+
+}
+
+@media(max-width: 710px) {
+    .caixa-sobre {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+.lado1 {
+    width: 80%;
+    text-align: justify;
+}
+
+.lado2 {
+    width: 80%;
+
+}
+
+.links {
+    margin-top: 10px;
+    width: 250px;
+    height: 250px;
+    font-size: 20px;
+}
+
+.icone {
+    margin-top: 40px;
+
+}
+
+}
+/* as duas chaves estão certas */
+
