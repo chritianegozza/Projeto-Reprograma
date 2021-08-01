@@ -1,6 +1,10 @@
 # Projeto-Reprograma
 Projeto elaborado na Oficina do Reprograma de um site com o currículo e falando sobre mim. 
 
+![image](https://user-images.githubusercontent.com/72118415/127757117-8dfaa2a1-62f9-42e2-9b32-c761d6447e07.png)
+![image](https://user-images.githubusercontent.com/72118415/127757124-d7d14855-c518-48ef-8e85-e97b98da67df.png)
+![image](https://user-images.githubusercontent.com/72118415/127757135-e0519b99-7c07-40ea-9c21-569096c98a49.png)
+![image](https://user-images.githubusercontent.com/72118415/127757142-b357140b-b0c0-4cdb-907a-ffa3b2c4c707.png)
 
 
 
