@@ -26,7 +26,10 @@ O protejo é uma aplicação de um currículo online com toda a funcionalidade d
 ----------------------------------------------------------------------------------------------------------------
 🔖 Layout
 Você pode visualizar o layout do projeto através desse link. https://workshopreprograma-christianegozza.netlify.app
+
+----------------------------------------------------------------------------------------------------------------------------
 👩🏻‍💻 Desenvolvido 
 Desenvolvido por Christiane Gozza
-Feito com ♥ [christianeGozza] 👋 Siga meus projetos e deixe uma ⭐!
+----------------------------------------------------------------------------------------------------------------------------
+Feito com ♥ [christianeGozza] 👋 Siga meus projetos e deize uma ⭐!
 
