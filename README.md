@@ -33,5 +33,4 @@ Desenvolvido por Christiane Gozza
 ----------------------------------------------------------------------------------------------------------------------------
 
 
-Feito com ♥[christianeGozza] (https://github.com/chritianegozza)👋 Siga meus projetos e deixe uma  ⭐!
-
+Feito com ♥christianeGozza 👋 Siga meus projetos e deixe uma  ⭐!
